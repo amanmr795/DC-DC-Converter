@@ -1,0 +1,16 @@
+<workspace name="BoostConverter" version="5.0.0" crc="88264487">
+  <projects>
+    <project type="project" name="BoostConverter" filepath="..\..\..\..\AppData\Local\Microsoft\Windows\INetCache\IE\KD6YV7MC\BoostConverter.pscx" />
+    <project type="project" name="BuckConverter" filepath="..\..\..\..\AppData\Local\Microsoft\Windows\INetCache\IE\KD6YV7MC\BuckConverter.pscx" />
+    <project type="project" name="BuckBoostConverter" filepath="..\..\..\..\AppData\Local\Microsoft\Windows\INetCache\IE\KD6YV7MC\BuckBoostConverter.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>
